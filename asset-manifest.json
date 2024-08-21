@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/solar/static/css/main.9d344b28.css",
+    "main.js": "/solar/static/js/main.b99448e9.js",
+    "static/js/453.de7de5a5.chunk.js": "/solar/static/js/453.de7de5a5.chunk.js",
+    "static/media/stars.jpg": "/solar/static/media/stars.c75aac530b411960bb09.jpg",
+    "index.html": "/solar/index.html",
+    "main.9d344b28.css.map": "/solar/static/css/main.9d344b28.css.map",
+    "main.b99448e9.js.map": "/solar/static/js/main.b99448e9.js.map",
+    "453.de7de5a5.chunk.js.map": "/solar/static/js/453.de7de5a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d344b28.css",
+    "static/js/main.b99448e9.js"
+  ]
+}
